@@ -1,5 +1,5 @@
-function suma(a, b){
-    console.log(a +b )
-    return a + b
+function resta(a, b){
+    console.log(a - b)
+    return a - b
 }
-suma(13,5)
+resta(13,5)
